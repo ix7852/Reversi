@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\37061\source\repos\Reversi(SFML)\Reversi(SFML)\Main.cpp(54,56): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\37061\source\repos\Reversi(SFML)\Reversi(SFML)\Main.cpp(54,43): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\37061\source\repos\Reversi(SFML)\Reversi(SFML)\Main.cpp(102,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\37061\source\repos\Reversi(SFML)\Reversi(SFML)\Main.cpp(102,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\37061\source\repos\Reversi(SFML)\Reversi(SFML)\Main.cpp(134,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\37061\source\repos\Reversi(SFML)\Reversi(SFML)\Main.cpp(135,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\37061\source\repos\Reversi(SFML)\Reversi(SFML)\Main.cpp(253,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\37061\source\repos\Reversi(SFML)\Reversi(SFML)\Main.cpp(254,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+  Generating Code...
+  Reversi(SFML).vcxproj -> C:\Users\37061\source\repos\Reversi(SFML)\x64\Debug\Reversi(SFML).exe
